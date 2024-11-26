@@ -1,0 +1,154 @@
+[[redeems]]
+name = "Mental Clarity"
+api_name = "mental clarity"
+requires_input = false
+
+[[redeems]]
+name = "Boost"
+api_name = "boost"
+requires_input = false
+
+[[redeems]]
+name = "Tsoob"
+api_name = "tsoob"
+requires_input = false
+
+[[redeems]]
+name = "Lurker Check In"
+api_name = "lurker check in"
+requires_input = false
+
+[[redeems]]
+name = "Submit Headline"
+api_name = "submit headline"
+requires_input = true
+
+[[redeems]]
+name = "Cycle Gizmos"
+api_name = "cycle gizmos"
+requires_input = false
+
+[[redeems]]
+name = "Allow Streamer to Drink"
+api_name = "allow streamer to drink"
+requires_input = false
+
+[[redeems]]
+name = "Talk to Clone"
+api_name = "talk to clone"
+requires_input = true
+
+[[redeems]]
+name = "Deslug"
+api_name = "deslug"
+requires_input = false
+
+[[redeems]]
+name = "Spinne"
+api_name = "spinne"
+requires_input = false
+
+[[redeems]]
+name = "Seasickness Generator"
+api_name = "SEASICKNESS GENERATOR"
+requires_input = false
+
+[[redeems]]
+name = "INTJ Stare"
+api_name = "INTJ stare"
+requires_input = false
+
+[[redeems]]
+name = "The Pharaoh's Curse"
+api_name = "the pharaoh's curse"
+requires_input = false
+
+[[redeems]]
+name = "Forsen"
+api_name = "forsen"
+requires_input = false
+
+[[redeems]]
+name = "Pursue Idol Dream"
+api_name = "pursue idol dream"
+requires_input = false
+
+[[redeems]]
+name = "Live LCOLONQ Reaction"
+api_name = "live LCOLONQ reaction"
+requires_input = false
+
+[[redeems]]
+name = "Activate Spell Card"
+api_name = "activate spell card"
+requires_input = true
+
+[[redeems]]
+name = "Bells of Bezelea"
+api_name = "bells of bezelea"
+requires_input = true
+
+[[redeems]]
+name = "Palette Swap (Eyes)"
+api_name = "palette swap (eyes)"
+requires_input = true
+
+[[redeems]]
+name = "Palette Swap (Hair)"
+api_name = "palette swap (hair)"
+requires_input = true
+
+[[redeems]]
+name = "Palette Swap (Highlight)"
+api_name = "palette swap (highlight)"
+requires_input = true
+
+[[redeems]]
+name = "Hex"
+api_name = "hex"
+requires_input = true
+
+[[redeems]]
+name = "Antipiracy"
+api_name = "antipiracy"
+requires_input = false
+
+[[redeems]]
+name = "Super Idol"
+api_name = "super idol"
+requires_input = false
+
+[[redeems]]
+name = "Arrow"
+api_name = "arrow"
+requires_input = true
+
+[[redeems]]
+name = "Gamer"
+api_name = "gamer"
+requires_input = false
+
+[[redeems]]
+name = "Live Friend Reaction"
+api_name = "live friend reaction"
+requires_input = false
+
+[[redeems]]
+name = "Talk to Friend"
+api_name = "talk to friend"
+requires_input = true
+
+[[redeems]]
+name = "Feed Friend"
+api_name = "feed friend"
+requires_input = true
+
+[[redeems]]
+name = "Show Friend \nWikipedia Page"
+api_name = "show friend wikipedia page"
+requires_input = true
+
+[[redeems]]
+name = "Friend Composes Song"
+api_name = "friend composes song"
+requires_input = true
